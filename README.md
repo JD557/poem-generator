@@ -1,4 +1,4 @@
-poem-generator
+Poem Generator
 ==============
 
-A poem generator using two markov chains
+A poem generator using two Markov chains
